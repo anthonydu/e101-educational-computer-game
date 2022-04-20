@@ -1,6 +1,6 @@
 # e101-educational-computer-game
 
-This is a group project but my role was to creating the entire game so... All credits to me! 
+This is a group project and my role was to creating the game on Scratch. 
 
 Most of the backdrops and sprites in the game were drawn by Viki Lin. 
 
